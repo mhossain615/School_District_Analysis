@@ -20,7 +20,7 @@ I have also posted averages for reading and writing
 ![AverageReading](/Resources/avgreading.png)
 
 And also a final conclusion of data for all the schools
-![Summary](/Resources/Summary.png)
+![Summary](https://github.com/mhossain615/School_District_Analysis/blob/master/School_District_Analysis/Resources/Summary.png)
 
 ##Final thoughts
 
