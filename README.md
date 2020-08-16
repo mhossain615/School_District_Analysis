@@ -12,12 +12,12 @@ To help fix the scores on the tests and then analyze the data we have.
 ## Results
 
 
-I replaced the scores for math and reading scores with nans for the ninth graders in Thomas High School with Nans while keeping the rest of the data untouched ![Replaced Scores](/Resources/Nans.png)
+I replaced the scores for math and reading scores with nans for the ninth graders in Thomas High School with Nans while keeping the rest of the data untouched ![Replaced Scores](https://github.com/mhossain615/School_District_Analysis/blob/master/School_District_Analysis/Resources/Nans.png)
 
 I have also posted averages for reading and writing
-![AverageMath](/Resources/Avgmath.png)
+![AverageMath](https://github.com/mhossain615/School_District_Analysis/blob/master/School_District_Analysis/Resources/Avgmath.png)
 
-![AverageReading](/Resources/avgreading.png)
+![AverageReading](https://github.com/mhossain615/School_District_Analysis/blob/master/School_District_Analysis/Resources/avgreading.png)
 
 And also a final conclusion of data for all the schools
 ![Summary](https://github.com/mhossain615/School_District_Analysis/blob/master/School_District_Analysis/Resources/Summary.png)
